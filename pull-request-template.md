@@ -43,4 +43,4 @@ If you're unsure about any of these, don't hesitate to ask. We're here to help!
 
 ## Reviewer
 
-@seta-namhoang
+@reviewer-name
